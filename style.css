@@ -1,0 +1,52 @@
+body{
+    background-color: black;
+    color: white;
+}
+#title{
+    background-color:  rgb(17, 219, 67);
+    color: rgb(0, 0, 0);
+    border-radius: 10px 90px 10px 10px;
+    border: solid 2px ;
+}
+#author{
+    background-color:  rgb(17, 219, 67);
+    color: rgb(0, 0, 0);
+    border-radius: 10px 90px 10px 10px;
+    border: solid 2px ;
+}
+#isbn{
+    background-color:  rgb(17, 219, 67);
+    color: rgb(0, 0, 0);
+    border-radius: 10px 90px 10px 10px;
+    border: solid 2px ;
+}
+.text{
+    color:  rgb(17, 219, 67);
+}
+#submit{
+    background-color:  rgb(17, 219, 67);
+    color: white;
+    letter-spacing: 10px;
+    border-radius: 5px;
+    font-weight: 500;
+    width:100%;
+
+}
+.table-striped>tbody>tr:nth-child(odd)>td,
+.table-striped>tbody>tr:nth-child(odd)>th{
+    background-color:rgb(17, 219, 67);
+    color: rgb(0, 0, 0);
+    
+}
+.table-striped>tbody>tr:nth-child(even)>td,
+.table-striped>tbody>tr:nth-child(even)>th{
+    background-color:rgb(126, 251, 157);
+    color: rgb(0, 0, 0);
+    
+}
+
+.table-striped>thead>tr{
+    background-color:rgb(126, 251, 157);
+    color: rgb(0, 0, 0);
+    
+}
